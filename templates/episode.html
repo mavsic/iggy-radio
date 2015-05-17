@@ -1,0 +1,52 @@
+<header class="episode__header">
+	<div class="episode__number">Episode {{name}}</div>
+	<h2 class="episode__title"><time>{{#formatDate}}{{date}}{{/formatDate}}</time></h2>
+</header>
+<div class="episode__player player">
+	<audio class="player__player" preload="metadata">
+		<source src="episodes/{{filename}}" type="audio/mp4" />
+	</audio>
+	<div class="player__shaft">
+		<div class="player__line player__line_buffer"></div>
+		<div class="player__line player__line_time"></div>
+	</div>
+	<div class="player__control player__toggle" role="toggle">
+		<i class="player__play-icon icon icon_play"></i>
+		<i class="player__pause-icon icon icon_pause"></i>
+	</div>
+	<div class="player__time">
+		<span class="player__time-current"></span> / <span class="player__duration"></span>
+	</div>
+	<div class="player__volume">
+		<div class="player__control player__mute-toggle" role="mute">
+			<i class="player__mute-icon icon icon_unmute"></i>
+			<i class="player__unmute-icon icon icon_mute"></i>
+		</div><!--
+		--><div class="player__volume-scale">
+			<div class="player__volume-current">
+				<div class="player__volume-seeker"></div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="episode__actions">
+	<a class="episode__playlist-button playlist-button a"><i class="icon icon_chevron playlist-button__expand-icon"></i> <i class="icon icon_list"></i> Track list</a>
+	<a class="a a_nou" href="episodes/{{filename}}"><i class="icon icon_download"></i> <u class="a__u">Download (.m4a)</u></a>
+</div>
+<div class="episode__playlist">
+	<ul class="episode__playlinks">
+		{{#playlist}}
+		<li class="playlink">
+			<a class="playlink__link" data-timestamp="{{timestamp}}">
+				<span class="playlink__atrist">{{artist}}</span>
+				<span class="playlink__track">{{track}}</span>
+				<span class="playlink__comment">{{comment}}</span>
+				<span class="playlink__timestamp"><i class="playlink__icon-play icon icon_play"></i>{{#formatTimestamp}}{{timestamp}}{{/formatTimestamp}}</span>
+			</a>
+			<span class="playlink__search">
+				← jump to track, or <a class="a" href="http://www.youtube.com/results?search_query={{artist}} - {{track}}" target="_blank">search Youtube</a>
+			</span>
+		</li>
+		{{/playlist}}
+	</ul>
+</div>

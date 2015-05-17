@@ -1,0 +1,18 @@
+{
+	"folders":
+	[
+		{
+			"path": ".",
+			"name": "Iggy Pop Radio",
+			"folder_exclude_patterns": [ "build" ]
+		}
+	],
+	"build_systems":
+	[
+		{
+			"name": "Require.js",
+			"shell_cmd": "r.js.cmd -o build.js",
+			"working_dir": "${project_path:${folder}}"
+		}
+	]
+}
