@@ -1,3 +1,4 @@
-episodes/
+*.m4a
+*.mp3
 *.sublime-workspace
 build/

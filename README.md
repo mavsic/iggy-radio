@@ -2,7 +2,7 @@
 
 Every Friday Iggy Pop plays two hours of tunes on BBC Radio 6 Music. I record his broadcasts and publish them at [mavsic.ru/iggy](http://mavsic.ru/iggy).
 
-**Warning!** This repository doesn’t contain actual recordings, it also doesn’t contain ``index.json`` file with episode listing.
+**Warning!** This repository doesn’t contain actual recordings, only ``episodes/index.json`` listing file.
 
 ## Build process
 

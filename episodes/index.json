@@ -1,0 +1,905 @@
+[
+	{
+		"date": "2015-05-15",
+		"name": "6",
+		"filename": "006-Iggy_Confidential-2015-05-15.m4a",
+		"playlist": [
+			{
+				"timestamp": 44.5,
+				"artist": "Beck",
+				"track": "Heart is a Drum"
+			},
+			{
+				"timestamp": 338,
+				"artist": "Vexx",
+				"track": "Ocean Shores"
+			},
+			{
+				"timestamp": 559.3,
+				"artist": "Thelonious Monk with John Coltrane",
+				"track": "Ruby, My Dear"
+			},
+			{
+				"timestamp": 898,
+				"artist": "Trash Talk",
+				"track": "Gimme Death"
+			},
+			{
+				"timestamp": 1048,
+				"artist": "Ex Hex",
+				"track": "Everywhere"
+			},
+			{
+				"timestamp": 1264,
+				"artist": "Hinds",
+				"track": "Castigadas en el Granero",
+				"comment": "band FKA Deers"
+			},
+			{
+				"timestamp": 1489,
+				"artist": "TV on the Radio",
+				"track": "Careful You"
+			},
+			{
+				"timestamp": 1936,
+				"artist": "Them",
+				"track": "Mystic Eyes"
+			},
+			{
+				"timestamp": 2128,
+				"artist": "Little Milton",
+				"track": "Feel So Bad"
+			},
+			{
+				"timestamp": 2370,
+				"artist": "Alvin Cash & The Crawlers",
+				"track": "Twine Time"
+			},
+			{
+				"timestamp": 2560,
+				"artist": "Joe Cocker",
+				"track": "Woman to Woman"
+			},
+			{
+				"timestamp": 2855.3,
+				"artist": "Count Basie & His Orchestra",
+				"track": "All of Me"
+			},
+			{
+				"timestamp": 3019,
+				"artist": "Ray Charles & The Count Basie Orchestra",
+				"track": "Georgia On My Mind"
+			},
+			{
+				"timestamp": 3360,
+				"artist": "Coleman Hawkins & Ben Webster",
+				"track": "Prisoner of Love"
+			},
+			{
+				"timestamp": 3620,
+				"artist": "Grace Jones",
+				"track": "Pull Up to the Bumper"
+			},
+			{
+				"timestamp": 3909,
+				"artist": "Curtis Harding",
+				"track": "Freedom"
+			},
+			{
+				"timestamp": 4024,
+				"artist": "Freddie Slack With the Will Bradley Trio",
+				"track": "Down the Road A-Piece"
+			},
+			{
+				"timestamp": 4300,
+				"artist": "Red Fang",
+				"track": "Bird on Fire"
+			},
+			{
+				"timestamp": 4527,
+				"artist": "Parquet Courts",
+				"track": "Instant Disassembly"
+			},
+			{
+				"timestamp": 4969.5,
+				"artist": "Joey Bada$$",
+				"track": "Big Dusty"
+			},
+			{
+				"timestamp": 5219,
+				"artist": "Viet Cong",
+				"track": "Throw It Away"
+			},
+			{
+				"timestamp": 5537,
+				"artist": "Sonic’s Rendezvous Band",
+				"track": "City Slang",
+				"comment": "live, Masonic Auditorium, 1978"
+			},
+			{
+				"timestamp": 5972,
+				"artist": "White Lung",
+				"track": "Snake Jaw"
+			},
+			{
+				"timestamp": 6124,
+				"artist": "Otis Rush",
+				"track": "Three Times a Fool"
+			},
+			{
+				"timestamp": 6334,
+				"artist": "Bo Dollis & The Wild Magnolias",
+				"track": "Handa Wanta",
+				"comment": "Crescent City records session, 1970"
+			},
+			{
+				"timestamp": 6622.5,
+				"artist": "John Lee Hooker",
+				"track": "I’m in the Mood"
+			},
+			{
+				"timestamp": 6873,
+				"artist": "Julie London",
+				"track": "Black Coffee"
+			},
+			{
+				"timestamp": 7088,
+				"artist": "Skinny Girl Diet",
+				"track": "Eyes That Paralyse"
+			}
+		]
+	},
+	{
+		"date": "2015-05-08",
+		"name": "5",
+		"filename": "005-Iggy_Confidential-2015-05-08.m4a",
+		"playlist": [
+			{
+				"timestamp": 44,
+				"artist": "The Bar-Kays",
+				"track": "Soul Finger"
+			},
+			{
+				"timestamp": 180,
+				"artist": "Girlpool",
+				"track": "Blah Blah Blah"
+			},
+			{
+				"timestamp": 289,
+				"artist": "Philip Glass",
+				"track": "SloMo People"
+			},
+			{
+				"timestamp": 406.5,
+				"artist": "Nikki Lane",
+				"track": "Walk of Shame"
+			},
+			{
+				"timestamp": 605,
+				"artist": "Peaches",
+				"track": "Rock ’n’ Roll"
+			},
+			{
+				"timestamp": 899,
+				"artist": "Roy Eldridge",
+				"track": "I Remember Harlem"
+			},
+			{
+				"timestamp": 1096.5,
+				"artist": "Link Wray",
+				"track": "Ace of Spades"
+			},
+			{
+				"timestamp": 1234,
+				"artist": "Cherry Glazerr",
+				"track": "Bloody Bandaid"
+			},
+			{
+				"timestamp": 1524,
+				"artist": "Jacuzzi Boys",
+				"track": "Blow Out Your Lights"
+			},
+			{
+				"timestamp": 1616,
+				"artist": "Charles Mingus",
+				"track": "Moanin’"
+			},
+			{
+				"timestamp": 1937,
+				"artist": "Jimmy Reed",
+				"track": "I Ain’t Got You"
+			},
+			{
+				"timestamp": 2107,
+				"artist": "Otis Rush",
+				"track": "I Can’t Quit You Baby"
+			},
+			{
+				"timestamp": 2324,
+				"artist": "Vince Staples",
+				"track": "Hands Up"
+			},
+			{
+				"timestamp": 2535,
+				"artist": "Albert King",
+				"track": "Born Under a Bad Sign"
+			},
+			{
+				"timestamp": 2730,
+				"artist": "Medeski Martin and Wood",
+				"track": "The Dropper"
+			},
+			{
+				"timestamp": 2976,
+				"artist": "Jimi Hendrix",
+				"track": "Hear My Train A Comin’"
+			},
+			{
+				"timestamp": 3322,
+				"artist": "Jimi Hendrix",
+				"track": "Bleeding Heart"
+			},
+			{
+				"timestamp": 3567,
+				"artist": "Boris",
+				"track": "Farewell"
+			},
+			{
+				"timestamp": 4016,
+				"artist": "Billie Holiday",
+				"track": "All of Me"
+			},
+			{
+				"timestamp": 4258,
+				"artist": "Mississippi Joe Callicott",
+				"track": "France Chance"
+			},
+			{
+				"timestamp": 4497,
+				"artist": "Steve Mackay",
+				"track": "Song for Baghdad"
+			},
+			{
+				"timestamp": 5058,
+				"artist": "La Macarena",
+				"track": "Saeta"
+			},
+			{
+				"timestamp": 5195,
+				"artist": "Carmen Linares",
+				"track": "El Que Se Tenga Por Grande"
+			},
+			{
+				"timestamp": 5534,
+				"artist": "Ensemble Villa Musica",
+				"track": "Schubert, Adagio from String Quintet in C, D 956"
+			},
+			{
+				"timestamp": 5883,
+				"artist": "LCD Soundsystem",
+				"track": "Daft Punk Is Playing at My House"
+			},
+			{
+				"timestamp": 6246,
+				"artist": "Lightnin’ Hopkins",
+				"track": "Katie Mae"
+			},
+			{
+				"timestamp": 6515,
+				"artist": "Julie London",
+				"track": "Misty"
+			},
+			{
+				"timestamp": 6738,
+				"artist": "Julie London",
+				"track": "Light My Fire"
+			},
+			{
+				"timestamp": 6932,
+				"artist": "The Velvet Underground",
+				"track": "Rock ’n’ Roll"
+			}
+		]
+	},
+	{
+		"date": "2015-05-01",
+		"name": "4",
+		"filename": "004-Iggy_Confidential-2015-05-01.m4a",
+		"playlist": [
+			{
+				"timestamp": 45,
+				"artist": "Champion Jack Dupree",
+				"track": "Nasty Boogie"
+			},
+			{
+				"timestamp": 247,
+				"artist": "Sunn O))) & Boris",
+				"track": "Blood Swamp",
+				"comment": "Iggy rants about killing an ant"
+			},
+			{
+				"timestamp": 570,
+				"artist": "Albert King",
+				"track": "Personal Manager"
+			},
+			{
+				"timestamp": 827,
+				"artist": "Sleaford Mods",
+				"track": "Showboat"
+			},
+			{
+				"timestamp": 1020,
+				"artist": "Louis Armstrong and His Hot Five",
+				"track": "King of the Zulus"
+			},
+			{
+				"timestamp": 1242,
+				"artist": "Jimi Hendrix",
+				"track": "Earth Blues"
+			},
+			{
+				"timestamp": 1487,
+				"artist": "Goat",
+				"track": "Goatlord"
+			},
+			{
+				"timestamp": 1649,
+				"artist": "George Bongo Joe Coleman",
+				"track": "Crazy With Love"
+			},
+			{
+				"timestamp": 1938,
+				"artist": "Frank Sinatra",
+				"track": "Where or When"
+			},
+			{
+				"timestamp": 2107,
+				"artist": "Fat White Family",
+				"track": "Heaven on Earth"
+			},
+			{
+				"timestamp": 2293,
+				"artist": "Miles Davis Quintet",
+				"track": "Miles Runs the Voodoo Down"
+			},
+			{
+				"timestamp": 2711,
+				"artist": "Sleaford Mods",
+				"track": "The Corgi"
+			},
+			{
+				"timestamp": 2897,
+				"artist": "Suicide",
+				"track": "Ghost Rider"
+			},
+			{
+				"timestamp": 3082,
+				"artist": "The Lester Young Buddy Rich Trio",
+				"track": "I Cover the Waterfront"
+			},
+			{
+				"timestamp": 3348,
+				"artist": "John Coltrane",
+				"track": "The Night Has a Thousand Eyes"
+			},
+			{
+				"timestamp": 3760,
+				"artist": "Red Fang",
+				"track": "Blood Like Cream"
+			},
+			{
+				"timestamp": 3990,
+				"artist": "Parquet Courts",
+				"track": "Bodies Made Of"
+			},
+			{
+				"timestamp": 4196,
+				"artist": "Joey Bada$$",
+				"track": "Curry Chicken"
+			},
+			{
+				"timestamp": 4436,
+				"artist": "The Ogyatanaa Show Band",
+				"track": "You Monopolise Me"
+			},
+			{
+				"timestamp": 4665,
+				"artist": "Junior Kimbrough",
+				"track": "Work Me Baby"
+			},
+			{
+				"timestamp": 4968,
+				"artist": "ProtoMartyr",
+				"track": "Trust Me Billy"
+			},
+			{
+				"timestamp": 5104,
+				"artist": "Viet Cong",
+				"track": "March of Progress"
+			},
+			{
+				"timestamp": 5218,
+				"artist": "Viet Cong",
+				"track": "Newspaper Spoons"
+			},
+			{
+				"timestamp": 5534,
+				"artist": "Little Dragon",
+				"track": "Klapp Klapp"
+			},
+			{
+				"timestamp": 5781,
+				"artist": "Count Basie & His Orchestra",
+				"track": "One O’Clock Jump"
+			},
+			{
+				"timestamp": 5961,
+				"artist": "Ex Hex",
+				"track": "Waste Your Time"
+			},
+			{
+				"timestamp": 6127,
+				"artist": "Tinariwen",
+				"track": "Toumast Tincha"
+			},
+			{
+				"timestamp": 6419,
+				"artist": "Dexter Johnson",
+				"track": "Angelitos Negros",
+				"comment": "live"
+			},
+			{
+				"timestamp": 6860,
+				"artist": "Tame Impala",
+				"track": "Led Zeppelin"
+			},
+			{
+				"timestamp": 7045,
+				"artist": "Schoolly D",
+				"track": "Smoke Some Kill"
+			}
+		]
+	},
+	{
+		"date": "2015-04-24",
+		"name": "3",
+		"filename": "003-Iggy_Confidential-2015-04-24.m4a",
+		"playlist": [
+			{
+				"artist": "ProtoMartyr",
+				"track": "In My Sphere",
+				"timestamp": 44
+			},
+			{
+				"artist": "Viet Cong",
+				"track": "Pointless Experience",
+				"timestamp": 297.3
+			},
+			{
+				"artist": "White Lung",
+				"track": "Snake Jaw",
+				"timestamp": 477.5
+			},
+			{
+				"artist": "Deerhoof",
+				"track": "Mirror Monster",
+				"timestamp": 619.5
+			},
+			{
+				"artist": "Julian Casablancas + The Voidz",
+				"track": "Where No Eagles Fly",
+				"timestamp": 792.5
+			},
+			{
+				"artist": "Little Dragon",
+				"track": "Ritual Union",
+				"timestamp": 1054
+			},
+			{
+				"artist": "Vexx",
+				"track": "Roky, Take Me Home",
+				"timestamp": 1301.5
+			},
+			{
+				"artist": "Thelonious Monk",
+				"track": "Straight, No Chaser",
+				"timestamp": 1398
+			},
+			{
+				"artist": "TV on the Radio",
+				"track": "Staring at the Sun",
+				"timestamp": 1591
+			},
+			{
+				"artist": "The Distillers",
+				"track": "I Am a Revenant",
+				"timestamp": 1937
+			},
+			{
+				"artist": "Swans",
+				"track": "When She Breathes",
+				"timestamp": 2178.2
+			},
+			{
+				"artist": "Bunny Berigan",
+				"track": "I Can’t Get Started",
+				"timestamp": 2444
+			},
+			{
+				"artist": "Wes Montgomery",
+				"track": "Bumpin’ On Sunset",
+				"timestamp": 2794
+			},
+			{
+				"artist": "Elmore James",
+				"track": "Hawaiian Boogie",
+				"comment": "take 1",
+				"timestamp": 3115
+			},
+			{
+				"artist": "Joy Division",
+				"track": "She’s Lost Control",
+				"comment": "12′′ Version",
+				"timestamp": 3313.5
+			},
+			{
+				"artist": "Bo Diddley",
+				"track": "Pretty Thing",
+				"timestamp": 3611
+			},
+			{
+				"artist": "Bessie Smith",
+				"track": "Nobody Knows You When You’re Down and Out",
+				"timestamp": 3816.5
+			},
+			{
+				"artist": "Otis Rush",
+				"track": "Sit Down Baby",
+				"timestamp": 3998
+			},
+			{
+				"artist": "Little Walter",
+				"track": "Mellow Down Easy",
+				"timestamp": 4211
+			},
+			{
+				"artist": "Arctic Monkeys",
+				"track": "Knee Socks",
+				"timestamp": 4408
+			},
+			{
+				"artist": "Beck",
+				"track": "Waking Light",
+				"timestamp": 4666.5
+			},
+			{
+				"artist": "Bill Callahan",
+				"track": "Small Plane",
+				"timestamp": 4982
+			},
+			{
+				"artist": "The Drummers of Burundi",
+				"track": "The Drummers of Burundi",
+				"comment": "live at Real World",
+				"timestamp": 5204.5
+			},
+			{
+				"artist": "Alain Bashung",
+				"track": "Tant de nuits",
+				"timestamp": 5536
+			},
+			{
+				"artist": "Frank Sinatra",
+				"track": "One for My Baby",
+				"timestamp": 5820.5
+			},
+			{
+				"artist": "George ‘Bongo Joe’ Coleman",
+				"track": "I Wish I Could Sing",
+				"timestamp": 6084
+			},
+			{
+				"artist": "Albert King",
+				"track": "Laundromat Blues",
+				"timestamp": 6336.5
+			},
+			{
+				"artist": "Songhoy Blues",
+				"track": "Jolie",
+				"timestamp": 6564
+			},
+			{
+				"artist": "Martin Denny",
+				"track": "Quiet Village",
+				"timestamp": 6809
+			},
+			{
+				"artist": "Julie London",
+				"track": "Misty",
+				"timestamp": 7022.5
+			}
+		]
+	},
+	{
+		"date": "2015-04-17",
+		"name": "2",
+		"filename": "002-Iggy_Confidential-2015-04-17.m4a",
+		"playlist": [
+			{
+				"artist": "Fat White Family",
+				"track": "I Am Mark E Smith",
+				"timestamp": 44.5
+			},
+			{
+				"artist": "Royal Blood",
+				"track": "Ten Tonne Skeleton",
+				"timestamp": 330
+			},
+			{
+				"artist": "Miles Davis",
+				"track": "Black Satin",
+				"timestamp": 527
+			},
+			{
+				"artist": "Hadiqa Kiani",
+				"track": "Chankata",
+				"timestamp": 740
+			},
+			{
+				"artist": "Goat",
+				"track": "To Travel the Path Unknown",
+				"timestamp": 991.5
+			},
+			{
+				"artist": "Sleaford Mods",
+				"track": "The Demon",
+				"timestamp": 1174
+			},
+			{
+				"artist": "Curtis Harding",
+				"track": "Surf",
+				"timestamp": 1424.9
+			},
+			{
+				"artist": "Pete Johnson & His Boogie Woogie Boys",
+				"track": "Cherry Red",
+				"timestamp": 1614
+			},
+			{
+				"artist": "Queen Ida",
+				"track": "La Bas Two Step",
+				"timestamp": 1937
+			},
+			{
+				"artist": "Suicide",
+				"track": "Cheree",
+				"timestamp": 2129
+			},
+			{
+				"artist": "Buddy Guy & Junior Wells",
+				"track": "Snatch It Back and Hold It",
+				"timestamp": 2345.5
+			},
+			{
+				"artist": "Lester Young",
+				"track": "Big Eyes Blues",
+				"timestamp": 2580.5
+			},
+			{
+				"artist": "Red Fang",
+				"track": "Prehistoric Dog",
+				"timestamp": 2798
+			},
+			{
+				"artist": "Turbonegro",
+				"track": "All My Friends Are Dead",
+				"timestamp": 3115.5
+			},
+			{
+				"artist": "Parquet Courts",
+				"track": "Stoned & Starving",
+				"timestamp": 3276
+			},
+			{
+				"artist": "Joey Bada$$",
+				"track": "Black Beetles",
+				"timestamp": 3629
+			},
+			{
+				"artist": "The Barbecues",
+				"track": "Aaya Lolo",
+				"timestamp": 3865.5
+			},
+			{
+				"artist": "Sonic’s Rendezvous Band",
+				"track": "Electrophonic Tonic",
+				"comment": "live, Masonic Auditorium, 1978",
+				"timestamp": 4177.5
+			},
+			{
+				"artist": "Steve Reich",
+				"track": "Music for 18 Musicians: Section I",
+				"timestamp": 4440
+			},
+			{
+				"artist": "Philip Glass",
+				"track": "Koyaanisqatsi",
+				"timestamp": 4719
+			},
+			{
+				"artist": "Nikki Lane",
+				"track": "You Can’t Talk to Me Like That",
+				"timestamp": 4973.5
+			},
+			{
+				"artist": "Girlpool",
+				"track": "Jane",
+				"timestamp": 5231.5
+			},
+			{
+				"artist": "Cherry Glazerr",
+				"track": "White’s Not My Color This Evening",
+				"timestamp": 5536
+			},
+			{
+				"artist": "Jacuzzi Boys",
+				"track": "Planet of the Dreamers",
+				"timestamp": 5786.3
+			},
+			{
+				"artist": "Link Wray",
+				"track": "Switchblade",
+				"timestamp": 5903
+			},
+			{
+				"artist": "Peaches",
+				"track": "Trick or Treat",
+				"timestamp": 6182
+			},
+			{
+				"artist": "Junior Kimbrough & The Soul Blues Boys",
+				"track": "Crawling King Snake",
+				"timestamp": 6421.5
+			},
+			{
+				"artist": "Brighter Side of Darkness",
+				"track": "Love Jones",
+				"timestamp": 6732
+			},
+			{
+				"artist": "Bo Dollis & The Wild Magnolias",
+				"track": "Mighty Mighty Chief",
+				"timestamp": 6967.2
+			}
+		]
+	},
+	{
+		"date": "2015-04-10",
+		"name": "1",
+		"filename": "001-Iggy_Confidential-2015-04-10.m4a",
+		"playlist": [
+			{
+				"artist": "Sleaford Mods",
+				"track": "Donkey",
+				"timestamp": 44.5
+			},
+			{
+				"artist": "Fat White Family",
+				"track": "Cream of The Young",
+				"timestamp": 233
+			},
+			{
+				"artist": "Royal Blood",
+				"track": "Figure It Out",
+				"timestamp": 455.2
+			},
+			{
+				"artist": "Steve Reich",
+				"track": "Music for 18 Musicians:  Pulses (I)",
+				"timestamp": 762.3
+			},
+			{
+				"artist": "Viet Cong",
+				"track": "Death",
+				"timestamp": 1051
+			},
+			{
+				"artist": "Joey Bada$$",
+				"track": "Big Dusty",
+				"timestamp": 1497
+			},
+			{
+				"artist": "Miles Davis",
+				"track": "On the Corner",
+				"comment": "unedited master — excerpt",
+				"timestamp": 1932.5
+			},
+			{
+				"artist": "Goat",
+				"track": "Goatchild",
+				"timestamp": 2627.7
+			},
+			{
+				"artist": "Gene Krupa",
+				"track": "Sing, Sing, Sing",
+				"timestamp": 2904.4
+			},
+			{
+				"artist": "ProtoMartyr",
+				"track": "Free Supper",
+				"timestamp": 3202
+			},
+			{
+				"artist": "Tinariwen",
+				"track": "Cler Achel",
+				"timestamp": 3426.3
+			},
+			{
+				"artist": "Metallica",
+				"track": "53rd and 3rd",
+				"timestamp": 3694.2
+			},
+			{
+				"artist": "Tame Impala",
+				"track": "Feels Like We Only Go Backwards",
+				"timestamp": 3893.7
+			},
+			{
+				"artist": "Beck",
+				"track": "Morning",
+				"timestamp": 4081
+			},
+			{
+				"artist": "Parquet Courts",
+				"track": "Sunbathing Animal",
+				"timestamp": 4442.5
+			},
+			{
+				"artist": "Savages",
+				"track": "I Am Here",
+				"timestamp": 4703.3
+			},
+			{
+				"artist": "James Brown",
+				"track": "King Heroin",
+				"timestamp": 4933.3
+			},
+			{
+				"artist": "Ex Hex",
+				"track": "Beast",
+				"timestamp": 5167.5
+			},
+			{
+				"artist": "Jimmy Reed",
+				"track": "Bright Lights, Big City",
+				"timestamp": 5536
+			},
+			{
+				"artist": "Girlpool",
+				"track": "Slutmouth",
+				"timestamp": 5759.2
+			},
+			{
+				"artist": "Swans",
+				"track": "Failure",
+				"timestamp": 5941.3
+			},
+			{
+				"artist": "Nick Cave & The Bad Seeds",
+				"track": "We Real Cool",
+				"timestamp": 6370.4
+			},
+			{
+				"artist": "Philip Glass",
+				"track": "November 25th:  The Last Day",
+				"comment": "from the soundtrack to Mishima",
+				"timestamp": 6625.5
+			},
+			{
+				"artist": "John Coltrane",
+				"track": "The Night Has a Thousand Eyes",
+				"timestamp": 6786
+			}
+		]
+	}
+]
