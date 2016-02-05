@@ -4,7 +4,7 @@
 </header>
 <div class="episode__player player">
 	<audio class="player__player" preload="metadata">
-		<source src="episodes/{{filename}}" type="audio/mp4" />
+		<source src="episodes/{{filename}}" type="audio/{{format}}" />
 	</audio>
 	<div class="player__shaft">
 		<div class="player__line player__line_buffer"></div>
@@ -31,7 +31,7 @@
 </div>
 <div class="episode__actions">
 	<a class="episode__playlist-button playlist-button a"><i class="icon icon_chevron playlist-button__expand-icon"></i> <i class="icon icon_list"></i> Track list</a>
-	<a class="a a_nou" href="episodes/{{filename}}"><i class="icon icon_download"></i> <u class="a__u">Download (.m4a)</u></a>
+	<a class="a a_nou" href="episodes/{{filename}}"><i class="icon icon_download"></i> <u class="a__u">Download <abbr class="abbr">{{format}}</abbr></u></a>
 </div>
 <div class="episode__playlist">
 	<ul class="episode__playlinks">

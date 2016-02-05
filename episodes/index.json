@@ -3,6 +3,7 @@
 		"date": "2015-05-15",
 		"name": "6",
 		"filename": "006-Iggy_Confidential-2015-05-15.m4a",
+		"format": "mp4",
 		"playlist": [
 			{
 				"timestamp": 44.5,
@@ -153,6 +154,7 @@
 		"date": "2015-05-08",
 		"name": "5",
 		"filename": "005-Iggy_Confidential-2015-05-08.m4a",
+		"format": "mp4",
 		"playlist": [
 			{
 				"timestamp": 44,
@@ -305,6 +307,7 @@
 		"date": "2015-05-01",
 		"name": "4",
 		"filename": "004-Iggy_Confidential-2015-05-01.m4a",
+		"format": "mp4",
 		"playlist": [
 			{
 				"timestamp": 45,
@@ -464,6 +467,7 @@
 		"date": "2015-04-24",
 		"name": "3",
 		"filename": "003-Iggy_Confidential-2015-04-24.m4a",
+		"format": "mp4",
 		"playlist": [
 			{
 				"artist": "ProtoMartyr",
@@ -624,6 +628,7 @@
 		"date": "2015-04-17",
 		"name": "2",
 		"filename": "002-Iggy_Confidential-2015-04-17.m4a",
+		"format": "mp4",
 		"playlist": [
 			{
 				"artist": "Fat White Family",
@@ -777,6 +782,7 @@
 		"date": "2015-04-10",
 		"name": "1",
 		"filename": "001-Iggy_Confidential-2015-04-10.m4a",
+		"format": "mp4",
 		"playlist": [
 			{
 				"artist": "Sleaford Mods",
